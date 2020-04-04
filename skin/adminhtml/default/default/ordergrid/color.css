@@ -1,0 +1,30 @@
+
+#cancel{background-color: #E60000;width:107px;height: 16px;border-radius: 10px;text-align: center;
+        font-size: 11px;text-transform: uppercase;color: white;font-weight: bold;}
+#canceled_barclaycardsmartpaycw{background-color: #E60000;width:107px;height: 21px;border-radius: 10px;text-align: center;
+                                font-size: 11px;text-transform: uppercase;color: white;font-weight: bold;}
+
+#closed{background-color: #FFB547;width:107px;height: 16px;border-radius: 10px;text-align: center;
+        font-size: 11px;text-transform: uppercase;color: black;font-weight: bold;
+}
+#complete{background-color: #33AD33;width:107px;height: 16px;border-radius: 10px;text-align: center;
+          font-size: 11px;text-transform: uppercase;color: black;font-weight: bold;
+}
+#holded{background-color: #9999FF;width:107px;height: 16px;border-radius: 10px;text-align: center;
+        font-size: 11px;text-transform: uppercase;color: white;font-weight: bold;
+}
+#payment_review{background-color: #6C91FF;width:107px;height: 16px;border-radius: 10px;text-align: center;
+                font-size: 11px;text-transform: uppercase;color: white;font-weight: bold;
+}
+#pending{background-color: #FFFF19;width:107px;height: 16px;border-radius: 10px;text-align: center;
+         font-size: 11px;text-transform: uppercase;color: black;font-weight: bold;
+}
+#processing{background-color: #B8E62E;width:107px;height: 16px;border-radius: 10px;text-align: center;
+            font-size: 11px;text-transform: uppercase;color: white;font-weight: bold;
+}
+#fraud{background-color: #CC3399;width:107px;height: 16px;border-radius: 10px;text-align: center;
+       font-size: 11px;text-transform: uppercase;color: white;font-weight: bold;}
+#default{background-color: #B1B1B1;width:107px;height: 16px;border-radius: 10px;text-align: center;
+       font-size: 11px;text-transform: uppercase;color: white;font-weight: bold;
+}
+

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Codesbug_Ordergrid</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license uri="https://opensource.org/licenses/OSL-3.0">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Using Codesbug_Ordergrid Admin can hide show sales order column from system configuration.</summary>
+    <description>Using Codesbug_Ordergrid Admin can hide show sales order column from system configuration.</description>
+    <notes>First release</notes>
+    <authors><author><name>Amaresh Tiwari</name><user>amareshtiwari</user><email>codesbug@gmail.com</email></author></authors>
+    <date>2020-04-04</date>
+    <time>08:58:32</time>
+    <contents><target name="magecommunity"><dir name="Codesbug"><dir name="Ordergrid"><dir name="Block"><dir name="Adminhtml"><dir name="Ordergrid"><dir name="Renderer"><file name="Color.php" hash="f45227ae757b960e957e2014295457cb"/><file name="Image.php" hash="233e7ffe26c6b39cf86c2f1a1c539d97"/><file name="Name.php" hash="b7f9042224bcd044894b24796f4c81bf"/><file name="Red.php" hash="e71a97ce807050e03b8602813da84158"/></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="2c0eb2b67a7d8ad8e4f576f3d64c99d7"/></dir><dir name="Model"><file name="Observer.php" hash="3a9c40e3edba1425bdebfba42a764a5d"/><file name="Observerfilter.php" hash="1a13dc3265504edafa3e5af814819c01"/><dir name="System"><dir name="Config"><dir name="Source"><file name="Default.php" hash="3095a1edf572cee8ac8f80f8e71444cf"/><file name="Extra.php" hash="5484fabd7dee52f4daa5c4665bd9d0c6"/></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="284742c9f70fd612610532d302c4a9ca"/><file name="system.xml" hash="c6d3fdbe33ddbcca21cfb1c97bb8ffc2"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Codesbug_Ordergrid.xml" hash="cb514d7aff128be5e1965730447ecd81"/></dir></target><target name="mageskin"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="ordergrid"><file name="color.css" hash="2d98df734ccadc18df535c32512f4fdc"/></dir></dir></dir></dir></target><target name="magelocal"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="color.xml" hash=""/></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
